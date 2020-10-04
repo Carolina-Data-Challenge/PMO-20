@@ -8,7 +8,6 @@ To see our Tableau Visual: https://public.tableau.com/profile/tejas.pruthi#!/viz
 
 Link to our model code: https://www.kaggle.com/andrewshooman/notebook3c0dc88d4b/edit/run/44021989
 
-Website Repository: https://github.com/koceja/cdc20
 
 ---
 
