@@ -12,7 +12,9 @@ Website Repository: https://github.com/koceja/cdc20
 
 ---
 
-**PASTE PUBLIC VIDEO LINK HERE: ___________________________**
+**PASTE PUBLIC VIDEO LINK HERE:
+part 1 (3 min): https://youtu.be/gRywqUibRzk
+part 2 (2 min): https://youtu.be/STT5GaUqQLw
 
 ---
 
