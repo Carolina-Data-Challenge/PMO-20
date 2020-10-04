@@ -1,4 +1,6 @@
-# 2020 CDC Project Submission Template
+# 2020 CDC Project Submission
+
+Team Members: Tejas, Archit, Daniel, Andrew
 
 To see our mortgage predictor in action: http://mortgage-predictor.herokuapp.com/
 
